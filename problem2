@@ -1,0 +1,8 @@
+def palindrome(value):
+    extra = value.Copy()
+    reverse = value.reverse()
+    if (value==reverse):
+        print("true")
+    else:
+        print("false")
+print("This is the end of Conditional statements")
