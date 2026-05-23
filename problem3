@@ -1,0 +1,7 @@
+string = input("enter the string")
+if (string == repeated_words):
+    str.lower() == str.upper()
+    repeated_words = str.capitalize(string)
+    print(repeated_words)
+else:
+    print("there is no repeated words in the string")
