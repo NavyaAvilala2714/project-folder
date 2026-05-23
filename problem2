@@ -5,4 +5,5 @@ def palindrome(value):
         print("true")
     else:
         print("false")
+palindrome("A man a plan a canal Panama")
 print("This is the end of Conditional statements")
